@@ -1,0 +1,8 @@
+
+platform :ios do
+  import_from_git(
+    url: 'git@github.com:cocoaheads-kyiv-14-workshop/shared-lanes.git',
+    path: 'fastlane/Fastfile'
+  )
+end
+
