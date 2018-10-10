@@ -1,9 +1,9 @@
 {
   "name": "Tutorial",
   "version": "0.1.0",
-  "summary": "A short description of Tutorial.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/a-voronov/Tutorial",
+  "summary": "Tutorial module",
+  "description": "Tutorial module (private pod)",
+  "homepage": "https://github.com/cocoaheads-kyiv-14-workshop/tutorial",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,13 +12,20 @@
     "a-voronov": "voronovaleksandr91@gmail.com"
   },
   "source": {
-    "git": "https://github.com/a-voronov/Tutorial.git",
+    "git": "https://github.com/cocoaheads-kyiv-14-workshop/tutorial.git",
     "tag": "0.1.0"
   },
+  "social_media_url": "https://twitter.com/aleks_voronov",
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "Tutorial/Classes/**/*",
+  "source_files": "Tutorial/Classes/**/*.{swift}",
+  "resource_bundles": {
+    "Tutorial": [
+      "Tutorial/Classes/**/*.xib",
+      "Tutorial/Assets/*.xcassets"
+    ]
+  },
   "dependencies": {
     "RandomGenerator": [
       "~> 0.1.0"
