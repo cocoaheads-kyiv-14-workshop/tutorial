@@ -1,0 +1,10 @@
+workspace: Example/Tutorial.xcworkspace
+xcodeproj: Example/Tutorial.xcodeproj
+scheme: Tutorial-Example
+configuration: Debug
+source_directory: Tutorial/Classes
+output_directory: slather_output
+binary_basename: Tutorial
+ignore:
+  - Example/Tutorial/*
+
