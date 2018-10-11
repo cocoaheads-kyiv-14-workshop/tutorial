@@ -1,6 +1,6 @@
 {
   "name": "Tutorial",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Tutorial module",
   "description": "Tutorial module (private pod)",
   "homepage": "https://github.com/cocoaheads-kyiv-14-workshop/tutorial",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/cocoaheads-kyiv-14-workshop/tutorial.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "social_media_url": "https://twitter.com/aleks_voronov",
   "platforms": {

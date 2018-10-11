@@ -1,6 +1,6 @@
 PODS:
-  - RandomGenerator (0.1.2)
-  - Tutorial (0.1.0):
+  - RandomGenerator (0.1.3)
+  - Tutorial (0.1.1):
     - RandomGenerator (~> 0.1.0)
 
 DEPENDENCIES:
@@ -16,8 +16,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RandomGenerator: dc2f001c1f987cb903fb61afacfe9726e001f94f
-  Tutorial: 7f910dc7569113e56e7cac707338f6705b92c090
+  RandomGenerator: 723ec5cd775d8aea49fae641d3274c6a9a138b14
+  Tutorial: 7627e542baa1c6d7a7f74eadbdb8193174e35cc1
 
 PODFILE CHECKSUM: 22644add655dd5a97d8c6cc57d9385759fafd85b
 
